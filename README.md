@@ -1,6 +1,5 @@
 # Sistema de Gerenciamento de Estoque
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Descrição
 
