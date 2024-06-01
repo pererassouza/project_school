@@ -21,9 +21,9 @@ Este projeto é um sistema de gerenciamento de estoque para uma loja de varejo. 
 ## Estrutura do projeto
 
 sistema-gerenciamento-estoque/
-├── app.py
-├── models/
-│   ├── loja.py
-│   └── produto.py
-└── databases/
-    └── loja.db
+    ├── app.py
+    ├── models/
+    │   ├── loja.py
+    │   └── produto.py
+    └── databases/
+        └── loja.db
